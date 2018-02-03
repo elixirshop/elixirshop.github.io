@@ -1,0 +1,34 @@
+body { font-family: 'Roboto', sans-serif;
+       font-size: 16px;
+       line-height: 1.5;
+       font-weight: 300;
+       color: #111;
+       background-color: #FDF9FF;
+     }
+
+
+.main {
+    padding:15%;
+    height:40%;
+}
+
+.main a {
+    text-decoration: none;
+    color: purple;
+}
+
+.description {
+    border: 1px solid #EDC8FF;
+    border-radius: 25px;
+    padding: 30pt;
+    font-size:20px;
+}
+
+.logo {
+    font-size:40pt;
+    text-align: left;
+    font-weight: bold;
+    padding: 20pt;
+    color: purple;
+    margin-left:20pt;
+}
